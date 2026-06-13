@@ -1,18 +1,22 @@
 # Hi, I'm Alejandro Castrillón Ciro 👋
 
-### Systems Engineer | Full Stack Software Developer | PHP · Laravel · Vue.js · Payment Solutions
+### Systems Engineer | Semi-Senior Full Stack Software Developer | PHP · Laravel · Vue.js · Payment Solutions
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4F8FF7&center=true&vCenter=true&width=620&lines=Full+Stack+Software+Developer;Payment+Systems+Specialist;PHP+%7C+Laravel+%7C+Vue.js;Clean%2C+scalable+code+%26+secure+integrations)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4F8FF7&center=true&vCenter=true&width=620&lines=Semi-Senior+Full+Stack+Developer;Payment+Systems+Specialist;PHP+%7C+Laravel+%7C+Vue.js;Clean%2C+scalable+code+%26+secure+integrations)](https://git.io/typing-svg)
 
 [![Profile views](https://komarev.com/ghpvc/?username=alejociro&label=Profile%20views&color=4F8FF7&style=flat)](https://github.com/alejociro)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejociro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-castrillon-ciro-9539491ba)
 [![Gmail](https://img.shields.io/badge/Email-alejocc528@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:alejocc528@gmail.com)
+
+</div>
 
 ---
 
 ## 💼 About Me
 
-Full Stack Software Developer with **4+ years of experience** building and maintaining **payment solutions** and end-to-end software for high-traffic platforms. I specialize in the **PHP / Laravel** and **Vue.js** ecosystem, with deep expertise in **payment gateway integrations, transaction-flow optimization, and third-party integrations**.
+**Semi-Senior (Mid-Level) Full Stack Software Developer** with **4+ years of experience** building and maintaining **payment solutions** and end-to-end software for high-traffic platforms. I specialize in the **PHP / Laravel** and **Vue.js** ecosystem, with deep expertise in **payment gateway integrations, transaction-flow optimization, and third-party integrations**.
 
 - 💳 I build and maintain **payment plugins** for major e-commerce platforms — **WooCommerce, PrestaShop, Shopify, and Magento**.
 - 🔄 I modernize **legacy systems** (Symfony → Vue.js) into scalable, high-performance applications.
@@ -89,7 +93,7 @@ Full Stack Software Developer with **4+ years of experience** building and maint
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejociro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-castrillon-ciro-9539491ba)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejocc528@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alejociro)
 
